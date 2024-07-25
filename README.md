@@ -1,6 +1,5 @@
 ## Hey 👋, I'm Puneet Gani!  
   
-
 <a href="https://github.com/puneetgani" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -10,8 +9,6 @@
 <a href="https://www.kaggle.com/puneetgani" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
-  
-
 
 
 ### Glad to see you here!  
@@ -20,9 +17,9 @@ I’m a passionate Data Engineer/Scientist with more than 3 years of experience 
 As a Data Engineer, I focus on building and maintaining data pipelines, designing scalable databases, and ensuring the smooth integration and processing of data from diverse sources. I excel in constructing resilient backends capable of handling the most demanding tasks for your applications or websites. My passion lies in designing systems that are not only lightweight and powerful but also distributed and synchronized, maintaining a balance between elegance and efficiency.
 
 As a Data Scientist, I apply advanced analytics, machine learning, and statistical methods to derive actionable insights from data, helping drive informed decision-making. I enjoy diving into data to uncover patterns, trends, and correlations that can inform strategy and optimize operations. My goal is to turn complex data sets into understandable and valuable information that organizations can use to improve their performance.  
-  
 
-<br/>  
+
+### Rapidfire  
 
 - 🔭 I’m currently working on **ECG Rhythm Classification Algorithm**
 
@@ -32,13 +29,9 @@ As a Data Scientist, I apply advanced analytics, machine learning, and statistic
 
 - 📫 How to reach me **puneetgani01@gmail.com**
 
-<br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Data Engineering  
 <div align="center">  
