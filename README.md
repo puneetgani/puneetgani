@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-I’m a passionate Data Engineer/Scientist with more than 3 years of experience of working with data!
+I’m a passionate Data Engineer/Scientist with more than 5 years of experience of working with data!
 
 As a Data Engineer, I focus on building and maintaining data pipelines, designing scalable databases, and ensuring the smooth integration and processing of data from diverse sources. I excel in constructing resilient backends capable of handling the most demanding tasks for your applications or websites. My passion lies in designing systems that are not only lightweight and powerful but also distributed and synchronized, maintaining a balance between elegance and efficiency.
 
